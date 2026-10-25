@@ -1,0 +1,1 @@
+This directory is reserved for optional CI workflows. No automated release workflow is included because signing secrets, Android SDK setup, and the repository's release policy must be configured by the project owner first.

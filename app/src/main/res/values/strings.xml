@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TrickBD</string>
+    <string name="try_again">Try Again</string>
+    <string name="exit_confirm_title">Do you want to exit TrickBD?</string>
+    <string name="stay">Stay</string>
+    <string name="exit">Exit</string>
+    <string name="no_internet_title">No Internet Connection</string>
+    <string name="no_internet_desc">Please check your internet connection and try again.</string>
+    <string name="connect_internet_desc">Please connect to the internet and try again.</string>
+    <string name="page_load_failed_title">Failed to Load Page</string>
+    <string name="page_load_failed_desc">Unable to connect to the site. Please try again.</string>
+    <string name="secure_conn_not_found_title">Secure Connection Not Found</string>
+    <string name="secure_conn_not_found_desc">This link is not using HTTPS.</string>
+    <string name="secure_conn_failed_title">Secure Connection Failed</string>
+    <string name="secure_conn_failed_desc">Unable to verify site security certificate. Please try again later.</string>
+    <string name="server_unavailable_title">Server Temporarily Unavailable</string>
+    <string name="server_unavailable_desc">TrickBD server encountered an issue. Please try again later.</string>
+    <string name="reload_required_title">Reload Required</string>
+    <string name="reload_required_desc">The web page process crashed. Please reload.</string>
+    <string name="unable_open_link">Unable to open this link</string>
+</resources>
